@@ -1,0 +1,216 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Burger",
+            "priceUsd": 5.99,
+            "category": "Food",
+            "icon": "ic_burger"
+        },
+        {
+            "id": "2",
+            "name": "Sandwich",
+            "priceUsd": 4.25,
+            "category": "Food",
+            "icon": "ic_sandwich"
+        },
+        {
+            "id": "3",
+            "name": "Pizza",
+            "priceUsd": 7.50,
+            "category": "Food",
+            "icon": "ic_pizza"
+        },
+        {
+            "id": "4",
+            "name": "Pasta",
+            "priceUsd": 6.75,
+            "category": "Food",
+            "icon": "ic_pasta"
+        },
+        {
+            "id": "5",
+            "name": "Salad",
+            "priceUsd": 4.99,
+            "category": "Food",
+            "icon": "ic_salad"
+        },
+        {
+            "id": "6",
+            "name": "Hotdog",
+            "priceUsd": 3.50,
+            "category": "Food",
+            "icon": "ic_hotdog"
+        },
+        {
+            "id": "7",
+            "name": "Steak",
+            "priceUsd": 12.99,
+            "category": "Food",
+            "icon": "ic_steak"
+        },
+        {
+            "id": "8",
+            "name": "Sushi",
+            "priceUsd": 10.50,
+            "category": "Food",
+            "icon": "ic_sushi"
+        },
+        {
+            "id": "9",
+            "name": "Taco",
+            "priceUsd": 3.99,
+            "category": "Food",
+            "icon": "ic_taco"
+        },
+        {
+            "id": "10",
+            "name": "Fried Chicken",
+            "priceUsd": 8.25,
+            "category": "Food",
+            "icon": "ic_fried_chicken"
+        },
+
+        {
+            "id": "11",
+            "name": "Chips",
+            "priceUsd": 2.50,
+            "category": "Snacks",
+            "icon": "ic_chips"
+        },
+        {
+            "id": "12",
+            "name": "Cookies",
+            "priceUsd": 3.50,
+            "category": "Snacks",
+            "icon": "ic_cookies"
+        },
+        {
+            "id": "13",
+            "name": "Chocolate Bar",
+            "priceUsd": 1.99,
+            "category": "Snacks",
+            "icon": "ic_chocolate_bar"
+        },
+        {
+            "id": "14",
+            "name": "Popcorn",
+            "priceUsd": 2.75,
+            "category": "Snacks",
+            "icon": "ic_popcorn"
+        },
+        {
+            "id": "15",
+            "name": "Pretzels",
+            "priceUsd": 2.25,
+            "category": "Snacks",
+            "icon": "ic_pretzels"
+        },
+        {
+            "id": "16",
+            "name": "Granola Bar",
+            "priceUsd": 1.50,
+            "category": "Snacks",
+            "icon": "ic_granola_bar"
+        },
+        {
+            "id": "17",
+            "name": "Nuts Mix",
+            "priceUsd": 3.25,
+            "category": "Snacks",
+            "icon": "ic_nuts_mix"
+        },
+        {
+            "id": "18",
+            "name": "Fruit Snacks",
+            "priceUsd": 2.99,
+            "category": "Snacks",
+            "icon": "ic_fruit_snacks"
+        },
+        {
+            "id": "19",
+            "name": "Candy",
+            "priceUsd": 1.25,
+            "category": "Snacks",
+            "icon": "ic_candy"
+        },
+        {
+            "id": "20",
+            "name": "Energy Bar",
+            "priceUsd": 2.50,
+            "category": "Snacks",
+            "icon": "ic_energy_bar"
+        },
+
+        {
+            "id": "21",
+            "name": "Cola",
+            "priceUsd": 1.99,
+            "category": "Drinks",
+            "icon": "ic_cola"
+        },
+        {
+            "id": "22",
+            "name": "Orange Juice",
+            "priceUsd": 2.50,
+            "category": "Drinks",
+            "icon": "ic_orange_juice"
+        },
+        {
+            "id": "23",
+            "name": "Apple Juice",
+            "priceUsd": 2.25,
+            "category": "Drinks",
+            "icon": "ic_apple_juice"
+        },
+        {
+            "id": "24",
+            "name": "Lemonade",
+            "priceUsd": 2.00,
+            "category": "Drinks",
+            "icon": "ic_lemonade"
+        },
+        {
+            "id": "25",
+            "name": "Water Bottle",
+            "priceUsd": 1.50,
+            "category": "Drinks",
+            "icon": "ic_water_bottle"
+        },
+        {
+            "id": "26",
+            "name": "Iced Tea",
+            "priceUsd": 2.75,
+            "category": "Drinks",
+            "icon": "ic_iced_tea"
+        },
+        {
+            "id": "27",
+            "name": "Coffee",
+            "priceUsd": 2.99,
+            "category": "Drinks",
+            "icon": "ic_coffee"
+        },
+        {
+            "id": "28",
+            "name": "Milkshake",
+            "priceUsd": 3.50,
+            "category": "Drinks",
+            "icon": "ic_milkshake"
+        },
+        {
+            "id": "29",
+            "name": "Smoothie",
+            "priceUsd": 4.25,
+            "category": "Drinks",
+            "icon": "ic_smoothie"
+        },
+        {
+            "id": "30",
+            "name": "Soda",
+            "priceUsd": 1.75,
+            "category": "Drinks",
+            "icon": "ic_soda"
+        }
+    ],
+}

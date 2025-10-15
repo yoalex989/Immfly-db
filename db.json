@@ -257,11 +257,11 @@
   	    "discount": -0.20
   	  },
   	  {
-   	   "name": "Business Invitation",
+   	   "name": "Business",
   	    "discount": 0.15
   	  },
    	 {
- 	     "name": "Tourist Invitation",
+ 	     "name": "Tourist",
    	   "discount": 0.05
   	  }
  	 ],

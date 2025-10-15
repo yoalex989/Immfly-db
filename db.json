@@ -6,69 +6,79 @@
             "priceUsd": 5.99,
             "category": "Food",
             "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "stock": 15
         },
         {
             "id": "2",
             "name": "Sandwich",
             "priceUsd": 4.25,
             "category": "Food",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 10
         },
         {
             "id": "3",
             "name": "Pizza",
             "priceUsd": 7.50,
             "category": "Food",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 20
         },
         {
             "id": "4",
             "name": "Pasta",
             "priceUsd": 6.75,
             "category": "Food",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 0
         },
         {
             "id": "5",
             "name": "Salad",
             "priceUsd": 4.99,
             "category": "Food",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 12
         },
         {
             "id": "6",
             "name": "Hotdog",
             "priceUsd": 3.50,
             "category": "Food",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 8
         },
         {
             "id": "7",
             "name": "Steak",
             "priceUsd": 12.99,
             "category": "Food",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 4
         },
         {
             "id": "8",
             "name": "Sushi",
             "priceUsd": 10.50,
             "category": "Food",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 5
         },
         {
             "id": "9",
             "name": "Taco",
             "priceUsd": 3.99,
             "category": "Food",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 25
         },
         {
             "id": "10",
             "name": "Fried Chicken",
             "priceUsd": 8.25,
             "category": "Food",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 15
         },
 
         {
@@ -76,70 +86,80 @@
             "name": "Chips",
             "priceUsd": 2.50,
             "category": "Snacks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 30
         },
         {
             "id": "12",
             "name": "Cookies",
             "priceUsd": 3.50,
             "category": "Snacks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 25
         },
         {
             "id": "13",
             "name": "Chocolate Bar",
             "priceUsd": 1.99,
             "category": "Snacks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 18
         },
         {
             "id": "14",
             "name": "Popcorn",
             "priceUsd": 2.75,
             "category": "Snacks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 20
         },
         {
             "id": "15",
             "name": "Pretzels",
             "priceUsd": 2.25,
             "category": "Snacks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 12
         },
         {
             "id": "16",
             "name": "Granola Bar",
             "priceUsd": 1.50,
             "category": "Snacks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 40
         },
         {
             "id": "17",
             "name": "Nuts Mix",
             "priceUsd": 3.25,
             "category": "Snacks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 34
         },
         {
             "id": "18",
             "name": "Fruit Snacks",
             "priceUsd": 2.99,
             "category": "Snacks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 10
         },
         {
             "id": "19",
             "name": "Candy",
             "priceUsd": 1.25,
             "category": "Snacks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 22
         },
         {
             "id": "20",
             "name": "Energy Bar",
             "priceUsd": 2.50,
             "category": "Snacks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 48
         },
 
         {
@@ -147,70 +167,80 @@
             "name": "Cola",
             "priceUsd": 1.99,
             "category": "Drinks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 20
         },
         {
             "id": "22",
             "name": "Orange Juice",
             "priceUsd": 2.50,
             "category": "Drinks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 10
         },
         {
             "id": "23",
             "name": "Apple Juice",
             "priceUsd": 2.25,
             "category": "Drinks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 12
         },
         {
             "id": "24",
             "name": "Lemonade",
             "priceUsd": 2.00,
             "category": "Drinks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 13
         },
         {
             "id": "25",
             "name": "Water Bottle",
             "priceUsd": 1.50,
             "category": "Drinks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 80
         },
         {
             "id": "26",
             "name": "Iced Tea",
             "priceUsd": 2.75,
             "category": "Drinks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 15
         },
         {
             "id": "27",
             "name": "Coffee",
             "priceUsd": 2.99,
             "category": "Drinks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 44
         },
         {
             "id": "28",
             "name": "Milkshake",
             "priceUsd": 3.50,
             "category": "Drinks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 0
         },
         {
             "id": "29",
             "name": "Smoothie",
             "priceUsd": 4.25,
             "category": "Drinks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 0
         },
         {
             "id": "30",
             "name": "Soda",
             "priceUsd": 1.75,
             "category": "Drinks",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
+            "stock": 19
         }
   	  ],
 	"saleTypes": [

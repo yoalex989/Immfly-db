@@ -5,70 +5,70 @@
             "name": "Burger",
             "priceUsd": 5.99,
             "category": "Food",
-            "icon": "ic_burger"
+            "icon": "https://www.google.com/imgres?q=burger&imgurl=https%3A%2F%2Fwww.foodandwine.com%2Fthmb%2FDI29Houjc_ccAtFKly0BbVsusHc%3D%2F1500x0%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2Fcrispy-comte-cheesburgers-FT-RECIPE0921-6166c6552b7148e8a8561f7765ddf20b.jpg&imgrefurl=https%3A%2F%2Fwww.foodandwine.com%2Frecipes%2Fcrispy-comte-cheeseburgers&docid=lPAsBqpdsxWgvM&tbnid=81aE112Ti0KgUM&vet=12ahUKEwjqrcby3KWQAxVJhv0HHQgDK1AQM3oECCAQAA..i&w=1500&h=1001&hcb=2&ved=2ahUKEwjqrcby3KWQAxVJhv0HHQgDK1AQM3oECCAQAA"
         },
         {
             "id": "2",
             "name": "Sandwich",
             "priceUsd": 4.25,
             "category": "Food",
-            "icon": "ic_sandwich"
+            "icon": "https://www.google.com/imgres?q=sandwich&imgurl=https%3A%2F%2Fwww.watermelon.org%2Fwp-content%2Fuploads%2F2023%2F02%2FSandwich_2023.jpg&imgrefurl=https%3A%2F%2Fwww.watermelon.org%2Frecipes%2Fwatermelon-sandwich%2F&docid=xbUumd4VXftpwM&tbnid=GnjiCF9MuA4eMM&vet=12ahUKEwjdmIz-3KWQAxXFgv0HHVkuIfoQM3oECBsQAA..i&w=3000&h=2248&hcb=2&ved=2ahUKEwjdmIz-3KWQAxXFgv0HHVkuIfoQM3oECBsQAA"
         },
         {
             "id": "3",
             "name": "Pizza",
             "priceUsd": 7.50,
             "category": "Food",
-            "icon": "ic_pizza"
+            "icon": "https://www.google.com/imgres?q=pizza&imgurl=https%3A%2F%2Fassets.tmecosys.com%2Fimage%2Fupload%2Ft_web_rdp_recipe_584x480%2Fimg%2Frecipe%2Fras%2FAssets%2F48a49653c8716457eb0b2f7eb3c7d74c%2FDerivates%2F8d83d9ed4567fa15456d8eec7557e60006a15576.jpg&imgrefurl=https%3A%2F%2Fcookidoo.international%2Frecipes%2Frecipe%2Fro%2Fr918620&docid=h3kHYgwOzFNBRM&tbnid=6jBN_DLVHp6KhM&vet=12ahUKEwiUydOC3aWQAxVNgP0HHWKoEjUQM3oECB0QAA..i&w=584&h=480&hcb=2&ved=2ahUKEwiUydOC3aWQAxVNgP0HHWKoEjUQM3oECB0QAA"
         },
         {
             "id": "4",
             "name": "Pasta",
             "priceUsd": 6.75,
             "category": "Food",
-            "icon": "ic_pasta"
+            "icon": "https://www.google.com/imgres?q=pasta&imgurl=https%3A%2F%2Fs.lightorangebean.com%2Fmedia%2F20240914160809%2FSpicy-Penne-Pasta_-done.png&imgrefurl=https%3A%2F%2Flightorangebean.com%2Fspicy-penne-pasta%2F&docid=V-KhXB09wisoqM&tbnid=vlYXkp_fGQIuGM&vet=12ahUKEwic_OGG3aWQAxVZg_0HHQUhBTMQM3oECBcQAA..i&w=1376&h=864&hcb=2&ved=2ahUKEwic_OGG3aWQAxVZg_0HHQUhBTMQM3oECBcQAA"
         },
         {
             "id": "5",
             "name": "Salad",
             "priceUsd": 4.99,
             "category": "Food",
-            "icon": "ic_salad"
+            "icon": "https://www.google.com/imgres?q=salad&imgurl=https%3A%2F%2Fwww.tasteofhome.com%2Fwp-content%2Fuploads%2F2025%2F02%2FFavorite-Mediterranean-Salad_EXPS_TOHcom25_41556_MD_P2_02_05_1b.jpg&imgrefurl=https%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Ffavorite-mediterranean-salad%2F&docid=uespcAnR3QtFQM&tbnid=T7GlG-VgeqN0aM&vet=12ahUKEwjOy-iM3aWQAxVZnf0HHRgMHeEQM3oECBYQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwjOy-iM3aWQAxVZnf0HHRgMHeEQM3oECBYQAA"
         },
         {
             "id": "6",
             "name": "Hotdog",
             "priceUsd": 3.50,
             "category": "Food",
-            "icon": "ic_hotdog"
+            "icon": "https://www.google.com/imgres?q=hotdog&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20250426%2Foriginal%2Fpngtree-a-yummy-hotdog-png-image_20826868.png&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fa-yummy-hotdog_20826868.html&docid=8EGrpXUkYlJNkM&tbnid=dYc7C9qEL1G6WM&vet=12ahUKEwibtOuT3aWQAxXthf0HHTEkCxEQM3oECGcQAA..i&w=2500&h=2500&hcb=2&ved=2ahUKEwibtOuT3aWQAxXthf0HHTEkCxEQM3oECGcQAA"
         },
         {
             "id": "7",
             "name": "Steak",
             "priceUsd": 12.99,
             "category": "Food",
-            "icon": "ic_steak"
+            "icon": "https://www.google.com/imgres?q=hotdog&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20250426%2Foriginal%2Fpngtree-a-yummy-hotdog-png-image_20826868.png&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fa-yummy-hotdog_20826868.html&docid=8EGrpXUkYlJNkM&tbnid=dYc7C9qEL1G6WM&vet=12ahUKEwibtOuT3aWQAxXthf0HHTEkCxEQM3oECGcQAA..i&w=2500&h=2500&hcb=2&ved=2ahUKEwibtOuT3aWQAxXthf0HHTEkCxEQM3oECGcQAA"
         },
         {
             "id": "8",
             "name": "Sushi",
             "priceUsd": 10.50,
             "category": "Food",
-            "icon": "ic_sushi"
+            "icon": "https://www.google.com/imgres?q=sushi&imgurl=https%3A%2F%2Fwww.justonecookbook.com%2Fwp-content%2Fuploads%2F2020%2F01%2FSushi-Rolls-Maki-Sushi-%25E2%2580%2593-Hosomaki-1106-II.jpg&imgrefurl=https%3A%2F%2Fwww.justonecookbook.com%2Fsushi-rolls%2F&docid=Ie_tKIPYDBdCCM&tbnid=mOaJJHPzcZkSqM&vet=12ahUKEwiH_qCr3aWQAxXwhv0HHZvMNuwQM3oECCYQAA..i&w=800&h=1200&hcb=2&ved=2ahUKEwiH_qCr3aWQAxXwhv0HHZvMNuwQM3oECCYQAA"
         },
         {
             "id": "9",
             "name": "Taco",
             "priceUsd": 3.99,
             "category": "Food",
-            "icon": "ic_taco"
+            "icon": "https://www.google.com/imgres?q=taco&imgurl=https%3A%2F%2Fwww.onceuponachef.com%2Fimages%2F2023%2F08%2FBeef-Tacos.jpg&imgrefurl=https%3A%2F%2Fwww.onceuponachef.com%2Frecipes%2Fbeef-tacos.html&docid=3YT3gySK9kX5yM&tbnid=Bo4ieZ62X53k3M&vet=12ahUKEwjckJOx3aWQAxUBh_0HHdWlKzIQM3oECB8QAA..i&w=1200&h=900&hcb=2&ved=2ahUKEwjckJOx3aWQAxUBh_0HHdWlKzIQM3oECB8QAA"
         },
         {
             "id": "10",
             "name": "Fried Chicken",
             "priceUsd": 8.25,
             "category": "Food",
-            "icon": "ic_fried_chicken"
+            "icon": "https://www.google.com/imgres?q=fried%20chicken&imgurl=https%3A%2F%2Fwww.allrecipes.com%2Fthmb%2Fq-IfK20zxeyp1DgKWhrVp6CQ43w%3D%2F1500x0%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2FAR-89268-triple-dipped-fried-chicken-beauty-4x3-3961ac838ddd41958e7cb9f49376cd68.jpg&imgrefurl=https%3A%2F%2Fwww.allrecipes.com%2Frecipe%2F89268%2Ftriple-dipped-fried-chicken%2F&docid=LlqZan7slLNcbM&tbnid=c8UMSzQ-AAlKuM&vet=12ahUKEwjTvr-23aWQAxU2hv0HHeMrJGgQM3oECBUQAA..i&w=1500&h=1125&hcb=2&ved=2ahUKEwjTvr-23aWQAxU2hv0HHeMrJGgQM3oECBUQAA"
         },
 
         {
@@ -76,70 +76,70 @@
             "name": "Chips",
             "priceUsd": 2.50,
             "category": "Snacks",
-            "icon": "ic_chips"
+            "icon": "https://www.google.com/imgres?q=chips&imgurl=https%3A%2F%2Fwww.allrecipes.com%2Fthmb%2FWyCC-RL8cuAEKfYHsdnzqi64iTc%3D%2F1500x0%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2F73135-homestyle-potato-chips-ddmfs-0348-3x4-hero-c21021303c8849bbb40c1007bfa9af6e.jpg&imgrefurl=https%3A%2F%2Fwww.allrecipes.com%2Frecipe%2F73135%2Fhomestyle-potato-chips%2F&docid=CeZpT5JqbpydXM&tbnid=blFQVi4u8pvjsM&vet=12ahUKEwjiyOXk3aWQAxUR9bsIHaWVM3oQM3oECBwQAA..i&w=1500&h=1125&hcb=2&ved=2ahUKEwjiyOXk3aWQAxUR9bsIHaWVM3oQM3oECBwQAA"
         },
         {
             "id": "12",
             "name": "Cookies",
             "priceUsd": 3.50,
             "category": "Snacks",
-            "icon": "ic_cookies"
+            "icon": "https://www.google.com/imgres?q=cookies&imgurl=https%3A%2F%2Fwww.verybestbaking.com%2Fsites%2Fg%2Ffiles%2Fjgfbjl326%2Ffiles%2Fsrh_recipes%2F4bc5edb86285aadc28069f51d9e98974.jpg&imgrefurl=https%3A%2F%2Fwww.verybestbaking.com%2Ftoll-house%2Frecipes%2Foriginal-nestle-toll-house-chocolate-chip-cookies%2F&docid=uqlQvWhmRMfHtM&tbnid=5pbubRGl74_30M&vet=12ahUKEwiqi8Pp3aWQAxU0gf0HHac1EFcQM3oECBUQAA..i&w=4500&h=3000&hcb=2&ved=2ahUKEwiqi8Pp3aWQAxU0gf0HHac1EFcQM3oECBUQAA"
         },
         {
             "id": "13",
             "name": "Chocolate Bar",
             "priceUsd": 1.99,
             "category": "Snacks",
-            "icon": "ic_chocolate_bar"
+            "icon": "https://www.google.com/imgres?q=chocolate&imgurl=https%3A%2F%2Felavegan.com%2Fwp-content%2Fuploads%2F2023%2F01%2Fhomemade-chocolate-bars.jpg&imgrefurl=https%3A%2F%2Felavegan.com%2Fhow-to-make-chocolate%2F&docid=aAp0lvR0foqXYM&tbnid=Q2A1aGaC7Tb8vM&vet=12ahUKEwiU9sfu3aWQAxX7_rsIHZZkJG0QM3oECB0QAA..i&w=1200&h=1770&hcb=2&ved=2ahUKEwiU9sfu3aWQAxX7_rsIHZZkJG0QM3oECB0QAA"
         },
         {
             "id": "14",
             "name": "Popcorn",
             "priceUsd": 2.75,
             "category": "Snacks",
-            "icon": "ic_popcorn"
+            "icon": "https://www.google.com/imgres?q=popcorn&imgurl=https%3A%2F%2Fwww.sharmispassions.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fpopcorn-recipe1.jpg&imgrefurl=https%3A%2F%2Fwww.sharmispassions.com%2Fperfect-popcorn-recipe%2F&docid=rO-_XiU5Lp8ZFM&tbnid=kIQc9RxIukYrfM&vet=12ahUKEwjt48fz3aWQAxVPh_0HHRYoCxAQM3oECB4QAA..i&w=720&h=1080&hcb=2&ved=2ahUKEwjt48fz3aWQAxVPh_0HHRYoCxAQM3oECB4QAA"
         },
         {
             "id": "15",
             "name": "Pretzels",
             "priceUsd": 2.25,
             "category": "Snacks",
-            "icon": "ic_pretzels"
+            "icon": "https://www.google.com/imgres?q=pretzels&imgurl=https%3A%2F%2Fwww.allrecipes.com%2Fthmb%2FjQRslNjmkoqg5yUuNfzrHJcoJ-M%3D%2F1500x0%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2Franch-pretzels-recipe-8418575lutzflcat4x3-46a11f74c1f34a358578988f5faaacb9.jpg&imgrefurl=https%3A%2F%2Fwww.allrecipes.com%2Franch-pretzels-recipe-8418575&docid=dgJUn0DZbRYOUM&tbnid=WYvB-DigijAr4M&vet=12ahUKEwivs5D43aWQAxXb_rsIHRL9Eh4QM3oECBsQAA..i&w=1500&h=1125&hcb=2&ved=2ahUKEwivs5D43aWQAxXb_rsIHRL9Eh4QM3oECBsQAA"
         },
         {
             "id": "16",
             "name": "Granola Bar",
             "priceUsd": 1.50,
             "category": "Snacks",
-            "icon": "ic_granola_bar"
+            "icon": "https://www.google.com/imgres?q=granola%20bar&imgurl=https%3A%2F%2Fhonestcooking.com%2Fwp-content%2Fuploads%2F2012%2F04%2FHomemade-Chewy-Granola-Bars-Recipe.jpg&imgrefurl=https%3A%2F%2Fhonestcooking.com%2Fhomemade-chewy-granola-bars-recipe%2F&docid=fiQP3SCOdzMnRM&tbnid=wjfzX2c99hyhSM&vet=12ahUKEwjD3Ir_3aWQAxX_hv0HHeMxLakQM3oECBUQAA..i&w=1000&h=1500&hcb=2&ved=2ahUKEwjD3Ir_3aWQAxX_hv0HHeMxLakQM3oECBUQAA"
         },
         {
             "id": "17",
             "name": "Nuts Mix",
             "priceUsd": 3.25,
             "category": "Snacks",
-            "icon": "ic_nuts_mix"
+            "icon": "https://www.google.com/imgres?q=nuts&imgurl=https%3A%2F%2Fres.cloudinary.com%2Fhz3gmuqw6%2Fimage%2Fupload%2Fc_fill%2Ch_450%2Cq_auto%2Cw_710%2Ff_auto%2Fhealthiest-nuts-phpuOEIm3&imgrefurl=https%3A%2F%2Fwww.cozymeal.com%2Fmagazine%2Fhealthiest-nuts&docid=_tgkVzxx3s45MM&tbnid=xxuJvMcZOj6ygM&vet=12ahUKEwjK8oKD3qWQAxVzgf0HHYvsEuoQM3oECBoQAA..i&w=710&h=450&hcb=2&ved=2ahUKEwjK8oKD3qWQAxVzgf0HHYvsEuoQM3oECBoQAA"
         },
         {
             "id": "18",
             "name": "Fruit Snacks",
             "priceUsd": 2.99,
             "category": "Snacks",
-            "icon": "ic_fruit_snacks"
+            "icon": "https://www.google.com/imgres?q=fruits%20snack&imgurl=https%3A%2F%2Fyourhealthybeginning.com%2Fwp-content%2Fuploads%2F2024%2F06%2Ffruit-snack-plate-4-scaled.jpg&imgrefurl=https%3A%2F%2Fyourhealthybeginning.com%2Fpost%2Ffruit-snack-plate-idea%2F&docid=LpuROGVERfqeHM&tbnid=qnhxQj7ACP_sBM&vet=12ahUKEwjVs8CK3qWQAxWShf0HHaUrEfcQM3oECBsQAA..i&w=1366&h=2048&hcb=2&ved=2ahUKEwjVs8CK3qWQAxWShf0HHaUrEfcQM3oECBsQAA"
         },
         {
             "id": "19",
             "name": "Candy",
             "priceUsd": 1.25,
             "category": "Snacks",
-            "icon": "ic_candy"
+            "icon": "https://www.google.com/imgres?q=candy&imgurl=https%3A%2F%2Fbutternutbakeryblog.com%2Fwp-content%2Fuploads%2F2019%2F10%2Floaded-halloween-candy-cookie-bars.jpg&imgrefurl=https%3A%2F%2Fbutternutbakeryblog.com%2Fleftover-halloween-candy-cookie-bars%2F&docid=ss-Bv0u949iaFM&tbnid=wCPJSpqKKdq7OM&vet=12ahUKEwi6ttKQ3qWQAxVc8LsIHXvdN0gQM3oECBwQAA..i&w=1200&h=1800&hcb=2&ved=2ahUKEwi6ttKQ3qWQAxVc8LsIHXvdN0gQM3oECBwQAA"
         },
         {
             "id": "20",
             "name": "Energy Bar",
             "priceUsd": 2.50,
             "category": "Snacks",
-            "icon": "ic_energy_bar"
+            "icon": "https://www.google.com/imgres?q=energy%20bar&imgurl=https%3A%2F%2Fwww.healthyfood.com%2Fwp-content%2Fuploads%2F2018%2F02%2FEnergy-bars-1024x659.jpg&imgrefurl=https%3A%2F%2Fwww.healthyfood.com%2Fhealthy-recipes%2Fenergy-bars%2F&docid=JWDeFNm7jGivpM&tbnid=ugFcnztX0tsOEM&vet=12ahUKEwj44JCc3qWQAxUnhP0HHUbAJigQM3oECCgQAA..i&w=1024&h=659&hcb=2&ved=2ahUKEwj44JCc3qWQAxUnhP0HHUbAJigQM3oECCgQAA"
         },
 
         {
@@ -147,70 +147,70 @@
             "name": "Cola",
             "priceUsd": 1.99,
             "category": "Drinks",
-            "icon": "ic_cola"
+            "icon": "https://www.google.com/imgres?q=cola&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F2%2F27%2FCoca_Cola_Flasche_-_Original_Taste.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCoca-Cola&docid=7ohxYwXli0wQQM&tbnid=pg4_uMlkr9T-BM&vet=12ahUKEwj4npGi3qWQAxVYgv0HHRbeN1MQM3oECBUQAA..i&w=3840&h=5760&hcb=2&ved=2ahUKEwj4npGi3qWQAxVYgv0HHRbeN1MQM3oECBUQAA"
         },
         {
             "id": "22",
             "name": "Orange Juice",
             "priceUsd": 2.50,
             "category": "Drinks",
-            "icon": "ic_orange_juice"
+            "icon": "https://www.google.com/imgres?q=orange%20juice&imgurl=https%3A%2F%2Fdraxe.com%2Fwp-content%2Fuploads%2F2022%2F12%2FDrAxeOrangeJuiceThumbnail.jpg&imgrefurl=https%3A%2F%2Fdraxe.com%2Fnutrition%2Fis-orange-juice-good-for-you%2F&docid=Ju3xYXAdc6PVMM&tbnid=2-zhRwOv-X_BeM&vet=12ahUKEwjMuuyo3qWQAxUWiv0HHc73FDQQM3oECCgQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwjMuuyo3qWQAxUWiv0HHc73FDQQM3oECCgQAA"
         },
         {
             "id": "23",
             "name": "Apple Juice",
             "priceUsd": 2.25,
             "category": "Drinks",
-            "icon": "ic_apple_juice"
+            "icon": "https://www.google.com/imgres?q=apple%20juice&imgurl=https%3A%2F%2Fwww.indianhealthyrecipes.com%2Fwp-content%2Fuploads%2F2022%2F02%2Fapple-juice-recipe.jpg&imgrefurl=https%3A%2F%2Fwww.indianhealthyrecipes.com%2Fapple-juice-recipe%2F&docid=-QonMBeM6dMhZM&tbnid=5KxBr9nrfoMDaM&vet=12ahUKEwi1kKev3qWQAxUO87sIHZ17AlwQM3oECBkQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwi1kKev3qWQAxUO87sIHZ17AlwQM3oECBkQAA"
         },
         {
             "id": "24",
             "name": "Lemonade",
             "priceUsd": 2.00,
             "category": "Drinks",
-            "icon": "ic_lemonade"
+            "icon": "https://www.google.com/imgres?q=lemonade&imgurl=https%3A%2F%2Fi2.wp.com%2Flmld.org%2Fwp-content%2Fuploads%2F2022%2F04%2FLemonade-4.jpg&imgrefurl=https%3A%2F%2Flmld.org%2Fsimple-lemonade%2F&docid=mk2FuhkW7THq0M&tbnid=xjyM2zW43yGhfM&vet=12ahUKEwjxrKG23qWQAxXbgP0HHYMbLJQQM3oECBwQAA..i&w=1200&h=1500&hcb=2&ved=2ahUKEwjxrKG23qWQAxXbgP0HHYMbLJQQM3oECBwQAA"
         },
         {
             "id": "25",
             "name": "Water Bottle",
             "priceUsd": 1.50,
             "category": "Drinks",
-            "icon": "ic_water_bottle"
+            "icon": "https://www.google.com/imgres?q=water&imgurl=https%3A%2F%2Fdomf5oio6qrcr.cloudfront.net%2Fmedialibrary%2F7909%2Fconversions%2Fb8a1309a-ba53-48c7-bca3-9c36aab2338a-thumb.jpg&imgrefurl=https%3A%2F%2Fwww.health.harvard.edu%2Fstaying-healthy%2Fhow-much-water-should-you-drink&docid=rFOZodaEgwJhdM&tbnid=p3rP2WTrtq-75M&vet=12ahUKEwi72vC73qWQAxV9_7sIHWNiN2cQM3oECBgQAA..i&w=550&h=367&hcb=2&ved=2ahUKEwi72vC73qWQAxV9_7sIHWNiN2cQM3oECBgQAA"
         },
         {
             "id": "26",
             "name": "Iced Tea",
             "priceUsd": 2.75,
             "category": "Drinks",
-            "icon": "ic_iced_tea"
+            "icon": "https://www.google.com/imgres?q=iced%20tea&imgurl=https%3A%2F%2Fbakingamoment.com%2Fwp-content%2Fuploads%2F2024%2F05%2FIMG_3367-iced-tea.jpg&imgrefurl=https%3A%2F%2Fbakingamoment.com%2Ficed-tea%2F&docid=AEGtIF4yiix4fM&tbnid=hId9m63bIQJ0xM&vet=12ahUKEwjdjYrE3qWQAxXigf0HHfCJORwQM3oECB4QAA..i&w=1440&h=1440&hcb=2&ved=2ahUKEwjdjYrE3qWQAxXigf0HHfCJORwQM3oECB4QAA"
         },
         {
             "id": "27",
             "name": "Coffee",
             "priceUsd": 2.99,
             "category": "Drinks",
-            "icon": "ic_coffee"
+            "icon": "https://www.google.com/imgres?q=coffee&imgurl=https%3A%2F%2Fmedia-cldnry.s-nbcnews.com%2Fimage%2Fupload%2Fnewscms%2F2019_33%2F2203981%2F171026-better-coffee-boost-se-329p.jpg&imgrefurl=https%3A%2F%2Fwww.nbcnews.com%2Fbetter%2Flifestyle%2Fhow-tap-health-benefits-coffee-ncna1096031&docid=L4W4bO3khfL-_M&tbnid=pzmsSwuaIaEgSM&vet=12ahUKEwjp8fjI3qWQAxW5hf0HHZOcLKQQM3oECBkQAA..i&w=1500&h=998&hcb=2&ved=2ahUKEwjp8fjI3qWQAxW5hf0HHZOcLKQQM3oECBkQAA"
         },
         {
             "id": "28",
             "name": "Milkshake",
             "priceUsd": 3.50,
             "category": "Drinks",
-            "icon": "ic_milkshake"
+            "icon": "https://www.google.com/imgres?q=milkshake&imgurl=https%3A%2F%2Fwww.foodandwine.com%2Fthmb%2FaYv9IwIyM4EKLL0o7W1CUSfjXzU%3D%2F1500x0%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2FVanilla-Milkshake-FT-MAG-RECIPE-0325-4ad53abc27a74f7687e510cc17d28d1d.jpg&imgrefurl=https%3A%2F%2Fwww.foodandwine.com%2Fvanilla-milkshake-11684167&docid=Fptak0EoiseG5M&tbnid=Bnx_RL9KridpVM&vet=12ahUKEwj8gazN3qWQAxX6h_0HHYWwGSMQM3oECDEQAA..i&w=1500&h=1000&hcb=2&ved=2ahUKEwj8gazN3qWQAxX6h_0HHYWwGSMQM3oECDEQAA"
         },
         {
             "id": "29",
             "name": "Smoothie",
             "priceUsd": 4.25,
             "category": "Drinks",
-            "icon": "ic_smoothie"
+            "icon": "https://www.google.com/imgres?q=smoothie&imgurl=https%3A%2F%2Fjoybauer.com%2Fwp-content%2Fuploads%2F2025%2F03%2FIMG_9101.jpg&imgrefurl=https%3A%2F%2Fjoybauer.com%2Fhealthy-recipes%2F3-ingredient-protein-smoothie%2F&docid=KjcGq075_MCfpM&tbnid=ui7_Abbsa3-ZvM&vet=12ahUKEwiCi6zS3qWQAxXnlP0HHVdRKy4QM3oECB8QAA..i&w=4017&h=6026&hcb=2&ved=2ahUKEwiCi6zS3qWQAxXnlP0HHVdRKy4QM3oECB8QAA"
         },
         {
             "id": "30",
             "name": "Soda",
             "priceUsd": 1.75,
             "category": "Drinks",
-            "icon": "ic_soda"
+            "icon": "https://www.google.com/imgres?q=soda&imgurl=https%3A%2F%2Fbakesbybrownsugar.com%2Fwp-content%2Fuploads%2F2023%2F08%2FStrawberry-Soda-10.jpg&imgrefurl=https%3A%2F%2Fbakesbybrownsugar.com%2Fstrawberry-soda%2F&docid=OcrcD5Lq_56JsM&tbnid=FRf28_yhexVlUM&vet=12ahUKEwjGr5TX3qWQAxVXhP0HHUiTE_cQM3oECB4QAA..i&w=1200&h=1800&hcb=2&ved=2ahUKEwjGr5TX3qWQAxVXhP0HHUiTE_cQM3oECB4QAA"
         }
     ],
 }

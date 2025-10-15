@@ -280,6 +280,8 @@
         }
     ],
     "card": [
-        "response":"success"
+        {
+            "response": "success"
+        }
     ]
 }

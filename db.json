@@ -5,7 +5,7 @@
             "name": "Burger",
             "priceUsd": 5.99,
             "category": "Food",
-            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg"
+            "icon": "https://raw.githubusercontent.com/yoalex989/Immfly-db/refs/heads/main/burger.jpg",
             "stock": 15
         },
         {

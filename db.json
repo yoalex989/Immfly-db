@@ -181,9 +181,8 @@
             "rate": 0.79
         }
     ],
-    "card": [
+    "card":
         {
             "response": "success"
         }
-    ]
 }
